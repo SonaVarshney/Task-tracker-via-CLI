@@ -25,7 +25,7 @@ A simple command-line interface (CLI) application for managing tasks. You can ad
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-cli.git
+git clone https://github.com/SonaVarshney/task-manager-cli
 cd task-manager-cli
 ```
 
